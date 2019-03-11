@@ -64,6 +64,10 @@ form {
     }
   }
 
+  ul input[type="checkbox"] {
+      display: inline;
+  }
+
   ul.inline {
     margin-left: 0;
     padding: 0;
